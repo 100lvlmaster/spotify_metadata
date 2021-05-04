@@ -1,11 +1,11 @@
-# youtube_metadata
+# spotify_metadata
 
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### [pub.dev/youtube_metadata](https://pub.dev/packages/youtube_metadata)
+### [pub.dev/spotify_metadata](https://pub.dev/packages/spotify_metadata)
 
-Hi! This is a lightweight⚡ package to fetch basic metadata for youtube video from the url
+Hi! This is a lightweight⚡ package to fetch basic metadata for a spotify song or playlist from the url
 
 ### To install, add to pubspec.yaml
 
