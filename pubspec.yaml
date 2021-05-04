@@ -1,6 +1,6 @@
 name: spotify_metadata
 description: A lightweight⚡ Flutter package that can fetch basic oembed data from a spotify song or playlist url including thumbanail url
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/100lvlmaster/spotify_metadata
 
 environment:
